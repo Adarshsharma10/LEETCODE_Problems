@@ -14,6 +14,7 @@ My Approach and solution of leetcode Problems
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0042-trapping-rain-water) |
@@ -39,6 +40,7 @@ My Approach and solution of leetcode Problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
@@ -51,6 +53,7 @@ My Approach and solution of leetcode Problems
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0680-valid-palindrome-ii) |
