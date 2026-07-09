@@ -11,6 +11,7 @@ My Approach and solution of leetcode Problems
 | [0042-trapping-rain-water](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,4 +61,12 @@ My Approach and solution of leetcode Problems
 | [0344-reverse-string](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0680-valid-palindrome-ii) |
+## Hash Table
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
