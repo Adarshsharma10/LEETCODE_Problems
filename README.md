@@ -9,6 +9,7 @@ My Approach and solution of leetcode Problems
 | [0011-container-with-most-water](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -44,6 +45,7 @@ My Approach and solution of leetcode Problems
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0053-maximum-subarray) |
 | [0647-palindromic-substrings](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0647-palindromic-substrings) |
 ## Stack
 |  |
@@ -73,4 +75,8 @@ My Approach and solution of leetcode Problems
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0201-bitwise-and-of-numbers-range) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
