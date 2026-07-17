@@ -69,4 +69,8 @@ My Approach and solution of leetcode Problems
 |  |
 | ------- |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0201-bitwise-and-of-numbers-range) |
 <!---LeetCode Topics End-->
