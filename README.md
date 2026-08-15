@@ -13,6 +13,7 @@ My Approach and solution of leetcode Problems
 | [0075-sort-colors](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@ My Approach and solution of leetcode Problems
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0201-bitwise-and-of-numbers-range) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Divide and Conquer
 |  |
 | ------- |
