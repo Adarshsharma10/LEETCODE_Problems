@@ -12,6 +12,7 @@ My Approach and solution of leetcode Problems
 | [0053-maximum-subarray](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2029-stone-game-ix](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2029-stone-game-ix) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
@@ -41,6 +42,7 @@ My Approach and solution of leetcode Problems
 | ------- |
 | [0011-container-with-most-water](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0680-valid-palindrome-ii) |
+| [2029-stone-game-ix](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2029-stone-game-ix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,4 +83,28 @@ My Approach and solution of leetcode Problems
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0053-maximum-subarray) |
+## Math
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2029-stone-game-ix) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2029-stone-game-ix) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
