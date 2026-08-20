@@ -16,6 +16,7 @@ My Approach and solution of leetcode Problems
 | [1563-stone-game-v](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2029-stone-game-ix) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
@@ -115,4 +116,8 @@ My Approach and solution of leetcode Problems
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2029-stone-game-ix) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
