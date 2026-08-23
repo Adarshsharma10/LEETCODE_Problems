@@ -48,6 +48,7 @@ My Approach and solution of leetcode Problems
 | [0011-container-with-most-water](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0680-valid-palindrome-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2029-stone-game-ix) |
 ## Dynamic Programming
 |  |
@@ -73,6 +74,7 @@ My Approach and solution of leetcode Problems
 | [0344-reverse-string](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0680-valid-palindrome-ii) |
+| [1927-sum-game](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1927-sum-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,6 +99,7 @@ My Approach and solution of leetcode Problems
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -112,6 +115,7 @@ My Approach and solution of leetcode Problems
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
