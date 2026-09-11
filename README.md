@@ -18,6 +18,7 @@ My Approach and solution of leetcode Problems
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -83,6 +84,7 @@ My Approach and solution of leetcode Problems
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1386-cinema-seat-allocation) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
@@ -147,5 +149,10 @@ My Approach and solution of leetcode Problems
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
