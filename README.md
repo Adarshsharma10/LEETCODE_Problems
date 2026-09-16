@@ -61,6 +61,7 @@ My Approach and solution of leetcode Problems
 | [0053-maximum-subarray](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0053-maximum-subarray) |
 | [0647-palindromic-substrings](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0647-palindromic-substrings) |
 | [1563-stone-game-v](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Stack
 |  |
 | ------- |
@@ -105,6 +106,7 @@ My Approach and solution of leetcode Problems
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -141,6 +143,7 @@ My Approach and solution of leetcode Problems
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Number Theory
 |  |
@@ -155,4 +158,8 @@ My Approach and solution of leetcode Problems
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3483-unique-3-digit-even-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
