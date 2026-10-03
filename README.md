@@ -60,6 +60,7 @@ My Approach and solution of leetcode Problems
 | [0005-longest-palindromic-substring](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0070-climbing-stairs) |
 | [0647-palindromic-substrings](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0647-palindromic-substrings) |
 | [1563-stone-game-v](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -107,6 +108,7 @@ My Approach and solution of leetcode Problems
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0070-climbing-stairs) |
 | [1563-stone-game-v](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1927-sum-game) |
@@ -172,4 +174,8 @@ My Approach and solution of leetcode Problems
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
