@@ -84,6 +84,7 @@ My Approach and solution of leetcode Problems
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0125-valid-palindrome) |
+| [0301-remove-invalid-parentheses](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0680-valid-palindrome-ii) |
@@ -186,4 +187,12 @@ My Approach and solution of leetcode Problems
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0301-remove-invalid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
