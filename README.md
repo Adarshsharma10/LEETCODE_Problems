@@ -10,6 +10,7 @@ My Approach and solution of leetcode Problems
 | [0015-3sum](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0198-house-robber) |
@@ -64,6 +65,7 @@ My Approach and solution of leetcode Problems
 | [0042-trapping-rain-water](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0213-house-robber-ii) |
@@ -180,6 +182,7 @@ My Approach and solution of leetcode Problems
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0063-unique-paths-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Bracket Sequences
 |  |
