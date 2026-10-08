@@ -78,6 +78,7 @@ My Approach and solution of leetcode Problems
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0042-trapping-rain-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -92,6 +93,7 @@ My Approach and solution of leetcode Problems
 | [0647-palindromic-substrings](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1927-sum-game](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1927-sum-game) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Hash Table
@@ -188,6 +190,7 @@ My Approach and solution of leetcode Problems
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1021-remove-outermost-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Memoization
 |  |
