@@ -22,6 +22,7 @@ My Approach and solution of leetcode Problems
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3483-unique-3-digit-even-numbers) |
@@ -180,6 +181,7 @@ My Approach and solution of leetcode Problems
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Recursion
