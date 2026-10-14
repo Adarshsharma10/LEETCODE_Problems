@@ -69,6 +69,7 @@ My Approach and solution of leetcode Problems
 | [2333-minimum-sum-of-squared-difference](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
 |  |
@@ -146,6 +147,7 @@ My Approach and solution of leetcode Problems
 | [2029-stone-game-ix](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3871-count-commas-in-range-ii](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Minimax
