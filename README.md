@@ -28,6 +28,7 @@ My Approach and solution of leetcode Problems
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -50,6 +51,7 @@ My Approach and solution of leetcode Problems
 | [0015-3sum](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0075-sort-colors) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
@@ -121,6 +123,7 @@ My Approach and solution of leetcode Problems
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
