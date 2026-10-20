@@ -34,6 +34,7 @@ My Approach and solution of leetcode Problems
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3886-sum-of-sortable-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,6 +57,7 @@ My Approach and solution of leetcode Problems
 | [2333-minimum-sum-of-squared-difference](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -162,6 +164,7 @@ My Approach and solution of leetcode Problems
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3871-count-commas-in-range-ii](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3886-sum-of-sortable-integers) |
 ## Minimax
 |  |
 | ------- |
@@ -206,6 +209,7 @@ My Approach and solution of leetcode Problems
 | [2778-sum-of-squares-of-special-elements](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3886-sum-of-sortable-integers](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
 |  |
 | ------- |
