@@ -123,6 +123,7 @@ My Approach and solution of leetcode Problems
 | [1021-remove-outermost-parentheses](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2409-count-days-spent-together) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Hash Table
@@ -163,6 +164,7 @@ My Approach and solution of leetcode Problems
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2029-stone-game-ix) |
+| [2409-count-days-spent-together](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2409-count-days-spent-together) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
