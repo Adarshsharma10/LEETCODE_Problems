@@ -16,6 +16,7 @@ My Approach and solution of leetcode Problems
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0213-house-robber-ii) |
+| [1254-number-of-closed-islands](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -229,6 +230,7 @@ My Approach and solution of leetcode Problems
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0064-minimum-path-sum) |
+| [1254-number-of-closed-islands](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Bracket Sequences
 |  |
@@ -250,6 +252,7 @@ My Approach and solution of leetcode Problems
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1254-number-of-closed-islands) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -269,6 +272,7 @@ My Approach and solution of leetcode Problems
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -282,4 +286,8 @@ My Approach and solution of leetcode Problems
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
