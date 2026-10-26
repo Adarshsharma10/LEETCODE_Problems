@@ -28,19 +28,19 @@ public:
         int m = grid.size();
         int n = grid[0].size();
         vector<vector<bool>> visited(m, vector<bool>(n, false));
-        int valid_islands_count = 0;
+        int cnt = 0;
         
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
                 if (grid[i][j] > 0 && !visited[i][j]) {
                     long long total_value = dfs(i, j, grid, visited);
                     if (total_value % k == 0) {
-                        valid_islands_count++;
+                        cnt++;
                     }
                 }
             }
         }
         
-        return valid_islands_count;
+        return cnt;
     }
 };
