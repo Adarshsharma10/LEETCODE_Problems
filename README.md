@@ -37,6 +37,7 @@ My Approach and solution of leetcode Problems
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3875-construct-uniform-parity-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Two Pointers
@@ -101,6 +102,7 @@ My Approach and solution of leetcode Problems
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -151,6 +153,7 @@ My Approach and solution of leetcode Problems
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -234,6 +237,7 @@ My Approach and solution of leetcode Problems
 | [1254-number-of-closed-islands](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Bracket Sequences
 |  |
 | ------- |
