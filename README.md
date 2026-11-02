@@ -17,6 +17,7 @@ If you find this repo useful,Please consider giving it a star⭐!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0213-house-robber-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1563-stone-game-v) |
@@ -61,6 +62,7 @@ If you find this repo useful,Please consider giving it a star⭐!
 | ------- |
 | [0015-3sum](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0075-sort-colors) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -172,6 +174,7 @@ If you find this repo useful,Please consider giving it a star⭐!
 | ------- |
 | [0062-unique-paths](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0070-climbing-stairs) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1563-stone-game-v](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
