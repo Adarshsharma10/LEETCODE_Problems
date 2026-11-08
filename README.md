@@ -19,6 +19,7 @@ If you find this repo useful,Please consider giving it a star⭐!
 | [0213-house-robber-ii](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0213-house-robber-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1563-stone-game-v) |
@@ -205,6 +206,7 @@ If you find this repo useful,Please consider giving it a star⭐!
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Game Theory
@@ -257,6 +259,7 @@ If you find this repo useful,Please consider giving it a star⭐!
 | [0063-unique-paths-ii](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0064-minimum-path-sum) |
 | [1254-number-of-closed-islands](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3665-twisted-mirror-path-count) |
@@ -282,6 +285,7 @@ If you find this repo useful,Please consider giving it a star⭐!
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
@@ -308,6 +312,7 @@ If you find this repo useful,Please consider giving it a star⭐!
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
@@ -326,6 +331,7 @@ If you find this repo useful,Please consider giving it a star⭐!
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Graph Theory
