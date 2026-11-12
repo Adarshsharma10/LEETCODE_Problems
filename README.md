@@ -36,6 +36,7 @@ If you find this repo useful,Please consider giving it a star⭐!
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
