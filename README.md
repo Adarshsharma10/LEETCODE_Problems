@@ -38,6 +38,7 @@ If you find this repo useful,Please consider giving it a star⭐!
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -128,10 +129,12 @@ If you find this repo useful,Please consider giving it a star⭐!
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/0042-trapping-rain-water) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## String
 |  |
 | ------- |
@@ -166,6 +169,7 @@ If you find this repo useful,Please consider giving it a star⭐!
 | ------- |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2747-count-zero-request-servers](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2747-count-zero-request-servers) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -308,6 +312,7 @@ If you find this repo useful,Please consider giving it a star⭐!
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Tree
 |  |
@@ -352,4 +357,12 @@ If you find this repo useful,Please consider giving it a star⭐!
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
