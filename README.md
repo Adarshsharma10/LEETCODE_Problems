@@ -148,6 +148,7 @@ If you find this repo useful,Please consider giving it a star⭐!
 | [1021-remove-outermost-parentheses](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1927-sum-game) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2409-count-days-spent-together) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -235,6 +236,7 @@ If you find this repo useful,Please consider giving it a star⭐!
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Combinatorics
 |  |
