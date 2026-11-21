@@ -39,6 +39,7 @@ If you find this repo useful,Please consider giving it a star⭐!
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -154,6 +155,7 @@ If you find this repo useful,Please consider giving it a star⭐!
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2409-count-days-spent-together) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -166,6 +168,7 @@ If you find this repo useful,Please consider giving it a star⭐!
 | [2747-count-zero-request-servers](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -324,6 +327,7 @@ If you find this repo useful,Please consider giving it a star⭐!
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
@@ -349,6 +353,7 @@ If you find this repo useful,Please consider giving it a star⭐!
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/1267-count-servers-that-communicate) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Adarshsharma10/LEETCODE_Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Graph Theory
